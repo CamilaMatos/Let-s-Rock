@@ -1,0 +1,22 @@
+{
+    "font awesome 6 brands": {
+        "normal": "font_awesome_6_brands_normal_0c4621ed39e9639f31209aa69ac82508"
+    },
+    "font awesome 6 free": {
+        "normal": "C:\\xampp\\htdocs\\_aulas\\admin\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/font_awesome_6_free_normal_616518aa2eaee980e5b7cd834bb42757",
+        "900": "font_awesome_6_free_900_ce57a9ce0846e3329b0d42fabe355d02"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_0c4621ed39e9639f31209aa69ac82508"
+    },
+    "font awesome 5 free": {
+        "900": "C:\\xampp\\htdocs\\_aulas\\admin\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/font_awesome_5_free_900_ce57a9ce0846e3329b0d42fabe355d02",
+        "normal": "font_awesome_5_free_normal_616518aa2eaee980e5b7cd834bb42757"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_1f59be9dd1ace2a2477463d9acb5ecc8"
+    },
+    "summernote": {
+        "normal": "summernote_normal_f56c489f1d925a49b6819e11efad2bda"
+    }
+}
